@@ -1,6 +1,6 @@
 # Contributor Code of Conduct
 
-If you are a contributor interested in participating in the Google Summer of Code with the XeroCodee community, please visit the [GSOC idea list.](annual-contribution-programs/google-summer-of-code-2023.md)
+If you are a contributor interested in participating in the Google Summer of Code with the XeroCodee community, please visit the [GSOC idea list.](google-summer-of-code-2023/)
 
 **What should you do before getting accepted:**
 
