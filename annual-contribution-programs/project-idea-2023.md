@@ -100,4 +100,54 @@ description: >-
 
 
 
+**Title:**  Netlify App automation pipeline&#x20;
+
+**Mentor(s):  TBH**
+
+**Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
+
+**Goal:** &#x20;
+
+**Sub-Goal:**&#x20;
+
+**Project Duration:** 170 hours
+
+**Difficulty:** Medium
+
+
+
+**Title:**  Vercal App automation pipeline&#x20;
+
+**Mentor(s):  TBH**
+
+**Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
+
+**Goal:** &#x20;
+
+**Sub-Goal:**&#x20;
+
+**Project Duration:** 170 hours
+
+**Difficulty:** Medium
+
+
+
+**Title:**  Github Page App automation pipeline&#x20;
+
+**Mentor(s):  TBH**
+
+**Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
+
+**Goal:** &#x20;
+
+**Sub-Goal:**&#x20;
+
+**Project Duration:** 170 hours
+
+**Difficulty:** Medium
+
+
+
+
+
 ****
