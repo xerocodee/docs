@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Contributor Code of Conduct
 
 If you are a contributor interested in participating in the Google Summer of Code with the XeroCodee community, please visit the [GSOC idea list.](contribute-to-xerocodee/google-summer-of-code-2023/)
