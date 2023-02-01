@@ -6,7 +6,7 @@ description: >-
 
 # Google Summer of Code 2023
 
-<figure><img src="../../.gitbook/assets/GSoC-Horizontal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/GSoC-Horizontal.png" alt=""><figcaption></figcaption></figure>
 
 XeroCodee plans to apply as a Google Summer of Code mentoring organisation in 2023. We are thrilled to be a part of this 19-year-old initiative, which will bring in a new generation of open-source developers and enthusiasts.
 
