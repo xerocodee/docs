@@ -8,7 +8,7 @@ description: >-
 
 **Title:  Full-Stack & Web-Focused workspace  ( user-friendly workflow )**
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:**
 
@@ -36,7 +36,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:  Workspace UI revamp and UX improvements**
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred: UX Research, UI Design, Figma**
 
@@ -68,7 +68,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:  UIKit ReactJS, NextJS, VueJS & Typescript components**
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** JavaScript/TypeScript, ReactJS, NextJS, VueJS, Webpack
 
@@ -88,7 +88,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:  Automatic Database pipeline CI/CD**
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** CI/CD, YAML, Bash Script, Cloud Service ( AWS ), Docker
 
@@ -108,7 +108,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:  Automatic Deployment  pipeline CI/CD**
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** CI/CD, YAML, Bash Script, Cloud Service ( AWS ), Git, Docker
 
@@ -122,7 +122,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:**  Netlify App automation pipeline&#x20;
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
 
@@ -142,7 +142,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:**  Vercal App automation pipeline&#x20;
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
 
@@ -156,7 +156,7 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Title:**  Github Page App automation pipeline&#x20;
 
-**Mentor(s):  TBH**
+**Mentor(s):**  TBD
 
 **Skills required/preferred:** TypeScript, GitHub API, Docker, CI/CD, Bash Script, YAML
 

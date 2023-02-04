@@ -1,6 +1,6 @@
 # Contributor Guide
 
-If you are a contributor interested in participating in the Google Summer of Code with the XeroCodee community, please visit the [GSOC idea list.](google-summer-of-code-2023/)
+If you are a contributor interested in participating in the Google Summer of Code with the XeroCodee community, please visit the [GSOC idea list.](google-summer-of-code-2023/proposal-template-2023/project-idea-2023.md)
 
 **What should you do before getting accepted:**
 
