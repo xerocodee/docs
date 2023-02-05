@@ -3,6 +3,8 @@
 ## ABOUT XeroCodee
 
 * [Overview](README.md)
+* [Fast Try](https://xerocodee.com)
+* [Community](https://discord.gg/PzyuFAeeWa)
 
 ## CONTRIBUTE TO XeroCodee
 
