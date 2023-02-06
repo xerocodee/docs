@@ -16,15 +16,9 @@ description: >-
 
 **Sub-Goal:**&#x20;
 
-* Create a search bar that allows users to search for projects and workspaces and implement a feature that allows users to create multiple workspaces, and clone and delete workspaces.
-* Implement a feature that allows users to create many projects at once and show a preview of recent projects.
-* Implement a feature that allows customers to select from a variety of themes ranging from basic to advanced.
-* Implement a feature that allows users to customise project settings such as project name, site URL, and favicon, as well as incorporate SEO features such as OpenGraph meta tags, and the ability to specify meta titles, meta descriptions, and cover pictures.
-* Include functionality that allows users to connect to databases like PostgreSQL, MongoDB, Redis, Cassandra, and DynamoDB.
-* Integrate hosting providers such as Vercel, GitHub, Netlify, AWS, and GCP.
-* Create a feature that allows users to integrate APIs like Hugging Face. Implement a feature that allows users to upload their own typefaces.
-* Implement a feature that allows users to create their own social network tags, such as OG Twitter, Facebook, and LinkedIn.
-* Create a feature that allows customers to connect Google Kits like Search Console, Analytics, PageSpeed Insights, and AdSense.
+* Create a search bar with functionality to search for projects and workspaces and the ability to create, clone and delete workspaces.
+* Implement project customization features including theme selection, project settings, SEO features, database connectivity and API integration.&#x20;
+* Integrate hosting providers and include features for social network tagging and Google Kit integration.
 
 _Further features will be added to improve it further depending on the timeline_
 
@@ -44,19 +38,10 @@ _Further features will be added to improve it further depending on the timeline_
 
 **Sub-Goal:**&#x20;
 
-* Provide a unified and intuitive interface for managing all aspects of the development process, from design to deployment.
-* Implement a feature that allows users to add custom fonts.&#x20;
-* Add navigation elements to create a navigation bar, create and edit sections on their website and add pre-defined styled-components.
-* Add text, paragraph, heading, and link elements for typography
-* Add images, gifs, videos, iFrames, code embeds, and Lottie animations for media.
-* Add lists and list items.
-* Create and edit forms, including buttons, labels, inputs, text areas, checkboxes, radio buttons, and select elements
-* Create and edit dropdown and navbar elements for interactivity.
-* Add layers, including pages and components.
-* Edit and use pre-defined CSS and SCSS classes.
-* Upload or add pre-defined assets, including images and icons from various icon libraries.
-
-
+* Implement a unified and intuitive interface for managing the development process from design to deployment.&#x20;
+* Include a feature to add custom fonts, navigation elements and various design elements such as text, media and forms.
+* Allow for creation and editing of dropdown, navbar and other interactive elements.&#x20;
+* Provide the ability to upload or add pre-defined assets including images and icons, and edit CSS and SCSS classes.
 
 **Project Duration:** 350 hours
 
