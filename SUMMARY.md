@@ -5,6 +5,7 @@
 * [Overview](README.md)
 * [Fast Try](https://xerocodee.com)
 * [Community](https://discord.gg/PzyuFAeeWa)
+* [Contributions](about-xerocodee/contributions.md)
 
 ## CONTRIBUTE TO XeroCodee
 
